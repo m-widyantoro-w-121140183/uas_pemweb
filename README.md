@@ -3,4 +3,4 @@
 
 # Bagian 1
 1. Membuat form dengan 4 input
-![form input](assset/input.png)
+![form input](asset/input.png)
