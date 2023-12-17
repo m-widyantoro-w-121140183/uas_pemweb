@@ -1,0 +1,111 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    outline: none;
+    color: #fff;
+}
+
+body {
+    padding: 20px;
+    background: url(Ecki76gUMAA2gYE_format=jpg&name=large.jpeg) no-repeat fixed;
+    background-size: cover;
+    background-position:center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 100vh;
+}
+
+section {
+    background: transparent;
+    backdrop-filter: blur(35px);
+    height: auto;
+    padding: 20px;
+    border-radius: 20px;
+    border: 2px solid rgba(255, 255, 255, .2);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    width: 600px;
+    margin: 0 auto;
+    border: 2px solid red;
+}
+
+form {
+    margin-top: 20px;
+}
+
+form label {
+    font-size: 20px;
+}
+
+.ex {
+    margin-top: 10px;
+}
+
+form input[type="text"] {
+    width: 100%;
+    height: 40px;
+    border-radius: 15px;
+    color: #010;
+    padding: 0 12px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+    margin-left: 20px;
+}
+
+input[type="submit"], button {
+    color: #010;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+input[type="submit"] {
+    cursor: pointer;
+}
+
+#view {
+    display: none;
+}
+
+.table {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+}
+
+.db {
+    width: 80%;
+}
+
+.db h1 {
+    margin-bottom: 20px;
+}
+
+#dataTable, #table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#dataTable th, #dataTable td, #table th, #table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+    
+.output {
+    margin-top: 50px;
+}
