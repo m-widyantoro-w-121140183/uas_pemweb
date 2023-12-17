@@ -1,4 +1,4 @@
-# Nama : Muhammad Widyantoro Wiryawan
+![image](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/5e802954-686f-4a02-999a-af4f8866a794)# Nama : Muhammad Widyantoro Wiryawan
 # NIM : 121140183
 
 # Bagian 1
@@ -10,14 +10,24 @@
 
 # Bagian 2
 1. Transfer value yang diambil di Javascript ke PHP
+![transfer](asset/transferjs-php.png) <br>
 2. Melakukan parsing
+![transfer](asset/transferjs-php.png) <br>
 3. Menyimpan data ke database
+![transfer](asset/transferjs-php.png) <br>
 
 # Bagian 3
 1. Membuat tabel
+![tabel](asset/sql1.png) <br>
 2. Konfigurasi ke MYSQL PHP
+![tabel](asset/slq2.png) <br>
 3. Manipulasi data (Update)
+![manipulasi](asset/manipulasi.png) <br>
+
 
 # Bagian 4
 1. Membuat Session
+![session](asset/session.png) <br>
 2. Pengelolaan Cookie
+![cookie](asset/transferjs-php.png) <br>
+
