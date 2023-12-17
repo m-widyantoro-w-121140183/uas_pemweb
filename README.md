@@ -35,7 +35,7 @@ b. Fungsi saveToDatabase digunakan berinteraksi dengan database, melakukan opera
 2. Pengelolaan Cookie <br>
 a. Membuat fungsi setCookie <br>
 ![cookie1](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/69e61e98-8e78-47f3-a7eb-70da8d9d9edc) <br>
-b. Menyimpan objek JSON dalam cookie
+b. Menyimpan objek JSON dalam cookie <br>
 ![cookie2](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/c2ccf981-14cf-4dbb-9dc3-c41d455d4cd8) <br>
 c. Membuat fungsi penyimpanan lokal (localStorage) <br>
 ![cookie3](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/92e9ceb5-9262-4b95-a357-ee6176ca5940) <br>
