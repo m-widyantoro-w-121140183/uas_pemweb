@@ -14,7 +14,11 @@
 2. Melakukan parsing <br>
 ![parsing](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/3b4a8c72-fc0f-4dd6-a7f8-bfcf126b5ec7) <br>
 3. Menyimpan data ke database <br>
- <br>
+a. Menggunakan koneksi database dan method saveToDatabase dari class Database untuk menyimpan data pengguna ke database. <br>
+![post1](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/fbe15742-9c33-415a-a700-21ccaa1edbd6) <br>
+b. Fungsi saveToDatabase digunakan berinteraksi dengan database, melakukan operasi penyimpanan data, dan memberikan respons tentang keberhasilan atau kegagalan operasi tersebut. <br>
+![post2](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/6155a8ea-081b-4900-b648-5dae8a0980d7) <br>
+
 
 # Bagian 3
 1. Membuat tabel <br>
