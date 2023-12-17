@@ -3,31 +3,31 @@
 
 # Bagian 1
 1. Membuat form dengan 4 input <br>
-![form input](asset/input.png)
+![input](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/c75f9510-d9ec-442a-a2db-3382a5772a0a) <br>
 2. Menampilkan table menggunakan tag table <br>
-![tablehtml](asset/tablehtml.png) <br>
-![tablejs](asset/tablejs.png) <br>
+![tablehtml](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/6ccde502-a69a-4322-b88f-5cc1b8e85bd2) <br>
+![tablejs](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/aca79065-5d06-45c1-9d0c-a9fdd43a9f5c)<br>
 
 # Bagian 2
 1. Transfer value yang diambil di Javascript ke PHP <br>
-![transfer](asset/transferjs-php.png) <br>
+![transferjs-php](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/d23961f6-b19d-4419-ba0d-fe25a955cf8b) <br>
 2. Melakukan parsing <br>
 ![parsing](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/3b4a8c72-fc0f-4dd6-a7f8-bfcf126b5ec7) <br>
 3. Menyimpan data ke database <br>
-![transfer](asset/transferjs-php.png) <br>
+ <br>
 
 # Bagian 3
 1. Membuat tabel <br>
-![tabel](asset/sql1.png) <br>
+![sql1](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/dadd049f-73e0-401c-bd31-c338c1687185) <br>
 2. Konfigurasi ke MYSQL PHP <br>
-![tabel](asset/slq2.png) <br>
+![sql2](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/701e0e5a-d5e0-456a-baac-152f918724ce) <br>
 3. Manipulasi data (Update) <br>
-![manipulasi](asset/manipulasi.png) <br>
+![manipulasi](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/84c4e278-ce76-4650-81ba-b0891bf97f15) <br>
 
 
 # Bagian 4
 1. Membuat Session <br>
-![session](asset/session.png) <br>
+![session](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/6a9f2268-fce6-453e-b51a-c465274aa9f1) <br>
 2. Pengelolaan Cookie <br>
 a. Membuat fungsi setCookie <br>
 ![cookie1](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/69e61e98-8e78-47f3-a7eb-70da8d9d9edc) <br>
