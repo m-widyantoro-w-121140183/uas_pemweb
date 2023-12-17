@@ -1,4 +1,4 @@
-![image](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/5e802954-686f-4a02-999a-af4f8866a794)# Nama : Muhammad Widyantoro Wiryawan
+# Nama : Muhammad Widyantoro Wiryawan
 # NIM : 121140183
 
 # Bagian 1
