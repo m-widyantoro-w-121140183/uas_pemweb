@@ -22,7 +22,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $browser = $_SERVER['HTTP_USER_AGENT'];
     $ip_address = $_SERVER['REMOTE_ADDR'];
 
-    $db = new Database("localhost", "root", "", "uaspemweb");
+    $db = new Data("localhost", "root", "", "uaspemweb");
 
     $saveResult = $db->push($name, $email, $status, $gender, $browser, $ip_address);
 
