@@ -14,10 +14,10 @@
 2. Melakukan parsing <br>
 ![parsing](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/3b4a8c72-fc0f-4dd6-a7f8-bfcf126b5ec7) <br>
 3. Menyimpan data ke database <br>
-a. Menggunakan koneksi database dan method saveToDatabase dari class Database untuk menyimpan data pengguna ke database. <br>
-![post1](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/fbe15742-9c33-415a-a700-21ccaa1edbd6) <br>
-b. Fungsi saveToDatabase digunakan berinteraksi dengan database, melakukan operasi penyimpanan data, dan memberikan respons tentang keberhasilan atau kegagalan operasi tersebut. <br>
-![post2](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/6155a8ea-081b-4900-b648-5dae8a0980d7) <br>
+a. Menggunakan koneksi database dan method push dari class Database untuk menyimpan data pengguna ke database. <br>
+![push1](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/11fe66d3-c3dd-4eeb-a6b6-04d07d08fcaf) <br>
+b. Fungsi push digunakan berinteraksi dengan database, melakukan operasi penyimpanan data, dan memberikan respons tentang keberhasilan atau kegagalan operasi tersebut. <br>
+![push2](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/b9b99548-e395-436d-a324-da0702caa8cc) <br>
 
 
 # Bagian 3
