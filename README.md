@@ -4,7 +4,7 @@
 # Bagian 1
 1. Membuat form dengan 4 input <br>
 ![input](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/c75f9510-d9ec-442a-a2db-3382a5772a0a) <br>
-2. Menampilkan table menggunakan tag table <br>
+2. Menampilkan table menggunakan tag table berdasarkan inputan pengguna (tanpa database) <br>
 ![tablehtml](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/6ccde502-a69a-4322-b88f-5cc1b8e85bd2) <br>
 ![tablejs](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/aca79065-5d06-45c1-9d0c-a9fdd43a9f5c)<br>
 
