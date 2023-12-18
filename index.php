@@ -53,6 +53,10 @@
         </section>
     </div>
 
+    <!-- <section class="table" id="view">
+        <table id="dataTable">
+        </table>
+    </section> -->
     
         <section class="db">
             <h1>Table Database</h1>
