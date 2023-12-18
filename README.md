@@ -24,7 +24,7 @@ b. Fungsi saveToDatabase digunakan berinteraksi dengan database, melakukan opera
 1. Membuat tabel <br>
 ![sql1](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/dadd049f-73e0-401c-bd31-c338c1687185) <br>
 2. Konfigurasi ke MYSQL PHP <br>
-![sql2](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/701e0e5a-d5e0-456a-baac-152f918724ce) <br>
+![kofigurasi](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/6c5fd610-0975-49a1-b19c-1e866647e54d) <br>
 3. Manipulasi data (Update) <br>
 ![manipulasi](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/84c4e278-ce76-4650-81ba-b0891bf97f15) <br>
 
