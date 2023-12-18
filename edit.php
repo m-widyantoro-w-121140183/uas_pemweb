@@ -17,7 +17,7 @@
 
             if ($_SERVER["REQUEST_METHOD"] == "GET" && isset($_GET['email'])) {
                 $email = $_GET['email'];
-                $db = new Database("localhost", "root", "", "uaspemweb");
+                $db = new Data("localhost", "root", "", "uaspemweb");
                 $result = $db->getEmail($email);
 
                 if ($result !== false && count($result) > 0) {
@@ -68,7 +68,7 @@
                 $status = isset($_POST['status']) ? $_POST['status'] : '';
                 $gender = isset($_POST['gender']) ? $_POST['gender'] : '';
 
-                $db = new Database("localhost", "root", "", "uaspemweb");
+                $db = new Data("localhost", "root", "", "uaspemweb");
 
                 $saveResult = $db->updateByEmail($email, $name, $status, $gender);
 
