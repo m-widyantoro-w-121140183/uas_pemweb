@@ -1,6 +1,6 @@
 <?php
 
-class Database {
+class Data {
     private $conn;
 
     public function __construct($host, $username, $password, $database) {
