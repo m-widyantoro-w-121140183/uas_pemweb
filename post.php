@@ -24,7 +24,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     $db = new Database("localhost", "root", "", "uaspemweb");
 
-    $saveResult = $db->saveToDatabase($name, $email, $status, $gender, $browser, $ip_address);
+    $saveResult = $db->push($name, $email, $status, $gender, $browser, $ip_address);
 
     $db->closeConnection();
 } else {
