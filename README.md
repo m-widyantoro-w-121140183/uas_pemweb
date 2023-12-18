@@ -26,7 +26,7 @@ b. Fungsi push digunakan berinteraksi dengan database, melakukan operasi penyimp
 2. Konfigurasi ke MYSQL PHP <br>
 ![kofigurasi](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/6c5fd610-0975-49a1-b19c-1e866647e54d) <br>
 3. Manipulasi data (Update) <br>
-![manipulasi](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/84c4e278-ce76-4650-81ba-b0891bf97f15) <br>
+![manipulasi](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/f12a3661-a8c9-45bc-81ca-ef63a3d6b2d6) <br>
 
 
 # Bagian 4
