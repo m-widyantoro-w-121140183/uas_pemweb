@@ -15,7 +15,7 @@
 ![parsing](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/3b4a8c72-fc0f-4dd6-a7f8-bfcf126b5ec7) <br>
 3. Menyimpan data ke database <br>
 a. Menggunakan koneksi database dan method push dari class Data untuk menyimpan data pengguna ke database. <br>
-![push1](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/11fe66d3-c3dd-4eeb-a6b6-04d07d08fcaf) <br>
+![push1](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/ca5a5ef6-ec7d-4388-8d11-b02b3dcbca8d) <br>
 b. Fungsi push digunakan berinteraksi dengan database, melakukan operasi penyimpanan data, dan memberikan respons tentang keberhasilan atau kegagalan operasi tersebut. <br>
 ![push2](https://github.com/m-widyantoro-w-121140183/uas_pemweb/assets/153991554/b9b99548-e395-436d-a324-da0702caa8cc) <br>
 
