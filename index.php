@@ -53,12 +53,6 @@
         </section>
     </div>
 
-
-    <!-- <section class="table" id="view">
-        <table id="dataTable">
-        </table>
-    </section> -->
-
     
         <section class="db">
             <h1>Table Database</h1>
@@ -76,7 +70,7 @@
                     <?php 
                     include "database.php";
                     
-                    $db = new Database("localhost", "root", "", "uaspemweb");
+                    $db = new Data("localhost", "root", "", "uaspemweb");
                     
                     $list = $db->show();
                     
