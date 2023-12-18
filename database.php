@@ -12,7 +12,7 @@ class Database {
         }
     }
 
-    public function saveToDatabase($name, $email, $status, $gender, $browser, $ip_address) {
+    public function push($name, $email, $status, $gender, $browser, $ip_address) {
         try {
             $sql = "INSERT INTO users (name, email, status, gender, browser, ip_address) 
                     VALUES (?, ?, ?, ?, ?, ?)";
